@@ -62,7 +62,7 @@
     "@types/nodemailer": "^6.4.17",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.2",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "daisyui": "^4.12.12",
     "eslint": "^8",
     "eslint-config-next": "15.1.0",
